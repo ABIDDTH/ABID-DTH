@@ -4,22 +4,22 @@ M3U8
 #EXTINF:-1 tvg-logo="LOGO" group-title="BANGLADESHI CHANNEL", BTV WORLD
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="BANGLADESHI CHANNEL", SANGSAD TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3Cb8qC7/20240508-132829.png" group-title="BANGLADESHI CHANNEL", SANGSAD TV
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="BANGLADESHI CHANNEL", ATN BANGLA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j4zNTBB/20240508-132703.png" group-title="BANGLADESHI CHANNEL", ATN BANGLA
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CHNzL8D/20240509-065838.png" group-title="BANGLADESHI CHANNEL", CHANNEL I HD
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="BANGLADESHI CHANNEL", EKUSHEY TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RPRfR3S/20240508-173420.png" group-title="BANGLADESHI CHANNEL", EKUSHEY TV
 M3U8
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="BANGLADESHI CHANNEL", NTV
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="BANGLADESHI CHANNEL", RTV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2gW5RHx/20240508-132557.png" group-title="BANGLADESHI CHANNEL", RTV HD
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/54VszHG/20240509-072214.png" group-title="BANGLADESHI CHANNEL", BOISHAKHI TV HD
@@ -46,7 +46,7 @@ M3U8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B2Mx1tP/20240508-123606.png" group-title="BANGLADESHI CHANNEL", SOMOY TV
 M3U8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8Yq86j0/20240509-051226.png" group-title="BANGLADESHI CHANNEL", INDEPENDENT NEWS
+#EXTINF:-1 L-logo="https://i.ibb.co/8Yq86j0/20240509-051226.png" group-title="BANGLADESHI CHANNEL", INDEPENDENT NEWS
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5GD7jJ5/20240509-065733.png" group-title="BANGLADESHI CHANNEL", MAASRANGA TV
@@ -55,7 +55,7 @@ M3U8
 #EXTINF:-1 tvg-logo="LOGO" group-title="BANGLADESHI CHANNEL", CHANNEL 9 
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="BANGLADESHI CHANNEL", CHANNEL 24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NTkrVs8/20240509-045911.png" group-title="BANGLADESHI CHANNEL", CHANNEL 24
 M3U8
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="BANGLADESHI CHANNEL", GAZI TV 
@@ -85,14 +85,13 @@ M3U8
 #EXTINF:-1 tvg-logo="LOGO" group-title="BANGLADESHI CHANNEL", NEWS 24 HD
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="BANGLADESHI CHANNEL", NAGORIK TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qJNSJkb/20240508-133119.png" group-title="BANGLADESHI CHANNEL", NAGORIK TV
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pz4F3Qv/20240509-084323.png" group-title="BANGLADESHI CHANNEL", BANGLA TV
 M3U8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zHn7zgV/20240509-055851.png" group-title="BANGLADESHI CHANNEL", ANANDA TV
-M3U8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHn7zgV/20240509-055851.png" group-title="BANGLADESHI CHANNEL", ANANDA TVLO8
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="BANGLADESHI CHANNEL", MOVIE BANGLA 
 M3U8
@@ -100,7 +99,7 @@ M3U8
 #EXTINF:-1 tvg-logo="LOGO" group-title="BANGLADESHI CHANNEL", NEXUS TV
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="BANGLADESHI CHANNEL", EKHON TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HtBrQ76/20240508-132159.png" group-title="BANGLADESHI CHANNEL", EKHON TV
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GJ53L8L/20240509-051323.png" group-title="BANGLADESHI CHANNEL", GLOBAL TV
@@ -148,6 +147,9 @@ M3U8
 #EXTINF:-1 tvg-logo="LOGO" group-title="INDIAN BANGLA CHANNEL", ENTEER TEN BANGLA 
 M3U8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9nDLz59/20240508-132027.png" group-title="INDIAN BANGLA CHANNEL", KHUSHBOO BANGLA 
+M3U8
+
 #EXTINF:-1 tvg-logo="LOGO" group-title="INDIAN BANGLA CHANNEL", AAKASH AATH
 M3U8
 
@@ -172,10 +174,10 @@ M3U8
 #EXTINF:-1 tvg-logo="LOGO" group-title="KIDS CHANNEL", CARTOON NETWORK HD
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="KIDS CHANNEL", POGO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXVTgrP/20240508-134108.png" group-title="KIDS CHANNEL", POGO
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="KIDS CHANNEL", DISNEY HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TMvDnhD/20240509-050316.png" group-title="KIDS CHANNEL", DISNEY HD
 M3U8
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="KIDS CHANNEL", DISCOVARY KIDS
@@ -184,7 +186,7 @@ M3U8
 #EXTINF:-1 tvg-logo="LOGO" group-title="KIDS CHANNEL", PBS KIDS
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="KIDS CHANNEL", HUNGAMA KIDS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XtZWgGt/20240508-132925.png" group-title="KIDS CHANNEL", HUNGAMA KIDS
 M3U8
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="KIDS CHANNEL", ZOO MOO
@@ -199,19 +201,19 @@ M3U8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hLLRjVb/20240508-122048.png" group-title="MUSIC CHANNEL", BALLE BALLE
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="MUSIC CHANNEL", 9X TASHAN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5xv2Tdb/20240509-050356.png" group-title="MUSIC CHANNEL", 9X TASHAN
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="MUSIC CHANNEL", 9XM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PFsm9wQ/20240509-051139.png" group-title="MUSIC CHANNEL", 9XM
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="MUSIC CHANNEL", 9X JHAKAAS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FJ9th0S/20240509-050440.png" group-title="MUSIC CHANNEL", 9X JHAKAAS
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="MUSIC CHANNEL", MTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x5HT6sn/20240509-051032.png" group-title="MUSIC CHANNEL", MTV
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="MUSIC CHANNEL", AB MASTI III
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kHLBDCv/20240509-050108.png" group-title="MUSIC CHANNEL", AB MASTI III
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fz2prF9/20240509-051615.png" group-title="MUSIC CHANNEL", ZING 
@@ -223,7 +225,7 @@ M3U8
 #EXTINF:-1 tvg-logo="LOGO" group-title="INFOTAINMENT CHANNEL", ANIMAL PLANET HD
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="INFOTAINMENT CHANNEL", SONY BBC EARTH
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S531gFG/20240508-134848.png" group-title="INFOTAINMENT CHANNEL", SONY BBC EARTH
 M3U8
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="INFOTAINMENT CHANNEL", DISCOVERY BANGLA
@@ -238,7 +240,7 @@ M3U8
 #EXTINF:-1 tvg-logo="LOGO" group-title="INFOTAINMENT CHANNEL", DISCOVERY HD
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="INFOTAINMENT CHANNEL", DISCOVERY SCIENCE 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p2yC1VJ/20240508-173550.png" group-title="INFOTAINMENT CHANNEL", DISCOVERY SCIENCE 
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zRNBbP3/20240509-050920.png" group-title="INFOTAINMENT CHANNEL", LOVE NATURE 4K
@@ -292,7 +294,7 @@ M3U8
 #EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS CHANNEL", STAR SPORTS 3
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS CHANNEL", SONY SPORTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2dgpG6v/20240508-131528.png" group-title="SPORTS CHANNEL", SONY SPORTS NETWORK 
 M3U8
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS CHANNEL", SONY SPORTS 1
@@ -301,10 +303,10 @@ M3U8
 #EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS CHANNEL", SONY SPORTS 2
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS CHANNEL", SONY SPORTS 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8PhJTFy/20240508-130932.png" group-title="SPORTS CHANNEL", SONY SPORTS 3
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS CHANNEL", SONY SPORTS 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/th6nhV2/20240508-131035.png" group-title="SPORTS CHANNEL", SONY SPORTS 4
 M3U8
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS CHANNEL", SONY SPORTS 5
