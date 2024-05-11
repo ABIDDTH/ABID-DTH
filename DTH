@@ -278,7 +278,7 @@ M3U8
 M3U8
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS CHANNEL", T SPORTS HD
-M3U8
+http://103.151.60.214:7444/1101/video.m3u8
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS CHANNEL", GAZI SPORTS
 M3U8
