@@ -46,7 +46,7 @@ M3U8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B2Mx1tP/20240508-123606.png" group-title="BANGLADESHI CHANNEL", SOMOY TV
 M3U8
 
-#EXTINF:-1 L-logo="https://i.ibb.co/8Yq86j0/20240509-051226.png" group-title="BANGLADESHI CHANNEL", INDEPENDENT NEWS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Yq86j0/20240509-051226.png" group-title="BANGLADESHI CHANNEL", INDEPENDENT NEWS
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5GD7jJ5/20240509-065733.png" group-title="BANGLADESHI CHANNEL", MAASRANGA TV
