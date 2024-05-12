@@ -394,3 +394,12 @@ http://103.145.232.246/Data/movies/indianbangla/new/Savings%20Account%20(2022)/S
 
 #EXTINF:-1 tvg-logo="http://103.145.232.246//Admin/main/images/tt27880538/poster/original//cY4XRQfsHqeVcT5eO0YZLGrbWz5.jpg" group-title="KOLKATA BANGLA MOVIE", SHIBPUR
 http://103.145.232.246/Data/movies/indianbangla/new/Shibpur%20(2023)/Shibpur%20(2023).mp4
+
+#EXTINF:-1 tvg-logo="http://103.145.232.246//Admin/main/images/tt4771796/poster/original//k8xSxunwmiSyPParfd3mPxsPFCj.jpg" group-title="KOLKATA BANGLA MOVIE", RANGBAAZ
+http://103.145.232.246/Data/movies/indianbangla/2000-2021/Rangbaaz%20(2013)/Rangbaaz%20(2013).mkv
+
+#EXTINF:-1 tvg-logo="http://103.145.232.246//Admin/main/images/tt8396262/poster/original//weQPPZ9PgiN5RM3HkOWhxujqaCe.jpg" group-title="KOLKATA BANGLA MOVIE", SULTAN
+http://103.145.232.246/Data/movies/indianbangla/2000-2021/Sultan-The%20Saviour%20(2018)/Sultan-The%20Saviour%20(2018)%20Bengali%20720p%20WEBRip%20x264%20AAC-MAZE.mkv
+
+#EXTINF:-1 tvg-logo="" group-title="KOLKATA BANGLA MOVIE", 
+M3U8
