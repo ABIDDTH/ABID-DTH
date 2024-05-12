@@ -431,8 +431,8 @@ http://103.145.232.246/Data/movies/indianbangla/2000-2021/Total%20Dadagiri%20(20
 #EXTINF:-1 tvg-logo="http://103.145.232.246//Admin/main/images/tt10215026/poster/original//yNzjRAjKTthCCnLF0nmlenvB8rF.jpg" group-title="KOLKATA BANGLA MOVIE", MON JAANE
 http://103.145.232.246/Data/movies/indianbangla/2000-2021/Mon%20Jaane%20Na%20(2019)/Mon%20Jaane%20Na.2019.1080p.WEB-DL.AVC.AAC.__596659__DDR.mp4
 
-#EXTINF:-1 tvg-logo="http://103.145.232.246//Admin/main/images/tt3112992/poster/original//ld27rwKWCHpQdfFPOgW7MGinKyW.jpg" group-title="BANGLADESHI MOVIE", MY NAME IS KHAN
-http://103.145.232.246/Data/movies/indianbangla/2000-2021/My%20Name%20Is%20Khan%20(2013)/My%20Name%20Is%20Khan%20(2013).mp4
+#EXTINF:-1 tvg-logo="https://media.pabnacablevision.net/wp-content/uploads/2023/08/yYh0KQk4GZ34iLSldVal2lGXMtL-200x300.jpg" group-title="BANGLADESHI MOVIE", SURONGO
+https://media.pabnacablevision.net/movie/Bangladeshi/2023/Surongo%20(2023)%201080p%20WEB-DL.mp4
 
 #EXTINF:-1 tvg-logo="http://103.145.232.246//Admin/main/images/tt4736026/poster/original//rzsPBBalBVMiQL9VpVDWcP5Y73f.jpg" group-title="KOLKATA BANGLA MOVIE", PAGLU 2
 http://103.145.232.246/Data/movies/indianbangla/2000-2021/Paglu-2%20(2012)/Paglu-2%20(2012).mkv
@@ -452,8 +452,11 @@ http://cinemacity.live/hdd/Data%20Movie/Varot%20Bangla%20Movie/Kelor%20Kirti%20%
 #EXTINF:-1 tvg-logo="http://cinemacity.live/uploads/video_thumb/3.jpg" group-title="KOLKATA BANGLA MOVIE", VILLAIN
 http://cinemacity.live/hdd/Data%20Movie/Varot%20Bangla%20Movie/Villain%20%282018%29~~Ankush~Mimi~Rittika%20Sen/Villain%20%282018%29~~Ankush~Mimi~Rittika%20Sen.mp4
 
-#EXTINF:-1 tvg-logo="https://media.pabnacablevision.net/wp-content/uploads/2023/08/bbVlVUS5KAO0XLKhSr5oNbbRXbG-225x300.jpg" group-title="BANGLADESHI MOVIE", PRIYOTOMA
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMwNTJlMDktZGI4Ni00OWIyLTgzYjEtNWNiNGM3ZGE2NDM5XkEyXkFqcGdeQXVyMjQwODkxNzg@._V1_.jpg" group-title="BANGLADESHI MOVIE", PRIYOTOMA
 https://media.pabnacablevision.net/movie/Bangladeshi/2023/Priyotoma%20(2023)%201080p%20WEB-DL.mp4
 
 #EXTINF:-1 tvg-logo="https://media.pabnacablevision.net/wp-content/uploads/2024/01/7aFtathzhnqWJpdlDaJWV37eUfS-203x300.jpg" group-title="BANGLADESHI MOVIE", OSOMOY
 https://media.pabnacablevision.net/movie/Bangladeshi/2024/Osomoy%20(2024)%20Bengali%201080p%20WEB-DL.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhZDJmN2QtYjU4NC00Y2QxLTkwNWMtYzVlODU5YzcyZjA2XkEyXkFqcGdeQXVyMTMzOTM3NDUx._V1_FMjpg_UX1000_.jpg" group-title="BANGLADESHI MOVIE", DAMAL
+https://media.pabnacablevision.net/movie/Bangladeshi/2022/Damal%20(2023)%201080p%20WEB-DL.mp4
