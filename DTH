@@ -139,9 +139,6 @@ M3U8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zXKv5Xd/20240509-060216.png" group-title="INDIAN BANGLA CHANNEL", ZEE BANGLA CINEMA 
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="INDIAN BANGLA CHANNEL", SUN BANGLA CINEMA 
-M3U8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b7JW4Wm/20240511-195855.png" group-title="INDIAN BANGLA CHANNEL", SUN BANGLA
 M3U8
 
@@ -181,16 +178,16 @@ M3U8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMvDnhD/20240509-050316.png" group-title="KIDS CHANNEL", DISNEY HD
 M3U8
 
-#EXTINL:-1 tvg-logo="LOGO" group-title="KIDS CHANNEL", DISCOVARY KIDS
+#EXTINL:-1 tvg-logo="https://i.ibb.co/cNTxNV8/20240510-042702.png" group-title="KIDS CHANNEL", DISCOVARY KIDS
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="KIDS CHANNEL", PBS KIDS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M85vQ93/20240512-070715.png" group-title="KIDS CHANNEL", PBS KIDS
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XtZWgGt/20240508-132925.png" group-title="KIDS CHANNEL", HUNGAMA KIDS
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="KIDS CHANNEL", ZOO MOO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8X8TCST/20240512-070312.png" group-title="KIDS CHANNEL", 24/7 SHIVA 
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Byf2TXX/20240508-124434.png" group-title="MUSIC CHANNEL", SANGEET BANGLA
@@ -253,9 +250,6 @@ M3U8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WW4bLx8/20240512-061833.png" group-title="INFOTAINMENT CHANNEL", WEATHER SPY
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="INFOTAINMENT CHANNEL", SAFARI TV
-M3U8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xJmMfvg/20240511-205720.png" group-title="INFOTAINMENT CHANNEL", WILD EARTH HD
 M3U8
 
@@ -274,7 +268,7 @@ M3U8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sH18wsp/20240509-071917.png" group-title="ISLAMIC CHANNEL", AL SUNNHA
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="ISLAMIC CHANNEL", ISLAM BANGLA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dQzg0fC/20240512-070421.png" group-title="ISLAMIC CHANNEL", ISLAM BANGLA
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DwK3fR/20240509-051522.png" group-title="SPORTS CHANNEL", T SPORTS 
@@ -316,7 +310,7 @@ M3U8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v3x47Xh/20240509-065623.png" group-title="SPORTS CHANNEL", FIFA+
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS CHANNEL", PTV SPORTS 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YBxXcKw/20240512-065540.png" group-title="SPORTS CHANNEL", PTV SPORTS 
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ctpcqSr/20240512-062153.png" group-title="SPORTS CHANNEL", WILLOW HD
@@ -325,5 +319,5 @@ M3U8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xqfvsRq/20240512-061748.png" group-title="SPORTS CHANNEL", DUBAI SPORTS 
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS CHANNEL", RED BULL TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HHLDvV9/20240512-065657.png" group-title="SPORTS CHANNEL", RED BULL TV
 M3U8
