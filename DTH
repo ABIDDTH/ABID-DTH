@@ -321,3 +321,17 @@ M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HHLDvV9/20240512-065657.png" group-title="SPORTS CHANNEL", RED BULL TV
 M3U8
+
+
+
+
+
+
+......  MOVE...... 
+
+#EXTINF:-1 tvg-logo="http://103.145.232.246//Admin/main/images/tt28670752/poster/original//qfyNt7wMeYpbjVU5vt5ZVfeSy98.jpg" group-title="KOLKATA BANGLA MOVIE", HUBBA 
+http://103.145.232.246/Data/movies/indianbangla/new/Hubba%20(2024)/Hubba%20(2024).mkv
+
+#EXTINF:-1 tvg-logo="http://103.145.232.246//Admin/main/images/tt24074898/poster/original//2lJ0skAUEoLmqOdWTAXhlj7hHLo.jpg" group-title="KOLKATA BANGLA MOVIE", PROJAPATI 
+http://103.145.232.246/Data/movies/indianbangla/new/Projapati%20(2022)/Projapati.mp4
+
