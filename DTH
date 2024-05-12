@@ -329,7 +329,7 @@ M3U8
 
 ......  MOVE...... 
 
-#EXTINF:-1 tvg-logo="http://103.145.232.246//Admin/main/images/tt28670752/poster/original//qfyNt7wMeYpbjVU5vt5ZVfeSy98.jpg" group-title="KOLKATA BANGLA MOVIE", HUBBA 
+#EXTINF:-1 tvg-logo="http://103.145.232.246//Admin/main/images/tt28670752/poster/original//qfyNt7wMeYpbjVU5vt5ZVfeSy98.jpg" group-title="BANGLADESHI MOVIE", HUBBA 
 http://103.145.232.246/Data/movies/indianbangla/new/Hubba%20(2024)/Hubba%20(2024).mkv
 
 #EXTINF:-1 tvg-logo="http://103.145.232.246//Admin/main/images/tt24074898/poster/original//2lJ0skAUEoLmqOdWTAXhlj7hHLo.jpg" group-title="KOLKATA BANGLA MOVIE", PROJAPATI 
@@ -344,7 +344,7 @@ http://103.145.232.246/Data/movies/indianbangla/new/Mitthye%20Premer%20Gaan%20(2
 #EXTINF:-1 tvg-logo="http://103.145.232.246//Admin/main/images/tt6396296/poster/original//xSFHsC6cgVyc2WoOb3wF3LHZmTB.jpg" group-title="KOLKATA BANGLA MOVIE", BYOMKESH PAWRBO
 http://103.145.232.246/Data/movies/indianbangla/new/Byomkesh%20Pawrbo%20(2016)/Byomkesh%20Pawrbo%20(2016)%20720p%20WEBHD%20x264%20-%20RDLinks.mp4
 
-#EXTINF:-1 tvg-logo="http://103.145.232.246//Admin/main/images/tt31368823/poster/original//d3p4pw0f8k7AAe242HN27mhhQ4Q.jpg" group-title="KOLKATA BANGLA MOVIE", KACHER MANUSH DURE THUIYA
+#EXTINF:-1 tvg-logo="http://103.145.232.246//Admin/main/images/tt31368823/poster/original//d3p4pw0f8k7AAe242HN27mhhQ4Q.jpg" group-title="BANGLADESHI MOVIE", KACHER MANUSH DURE THUIYA
 http://103.145.232.246/Data/movies/indianbangla/new/Kacher%20Manush%20Dure%20Thuiya%20(2024)/Kacher%20Manush%20Dure%20Thuiya.mp4
 
 #EXTINF:-1 tvg-logo="http://103.145.232.246//Admin/main/images/tt28699792/poster/original//aXjtCPBTWDTbZs2UVh4Iui9To9M.jpg" group-title="KOLKATA BANGLA MOVIE", KIRTAN
@@ -431,7 +431,7 @@ http://103.145.232.246/Data/movies/indianbangla/2000-2021/Total%20Dadagiri%20(20
 #EXTINF:-1 tvg-logo="http://103.145.232.246//Admin/main/images/tt10215026/poster/original//yNzjRAjKTthCCnLF0nmlenvB8rF.jpg" group-title="KOLKATA BANGLA MOVIE", MON JAANE
 http://103.145.232.246/Data/movies/indianbangla/2000-2021/Mon%20Jaane%20Na%20(2019)/Mon%20Jaane%20Na.2019.1080p.WEB-DL.AVC.AAC.__596659__DDR.mp4
 
-#EXTINF:-1 tvg-logo="https://media.pabnacablevision.net/wp-content/uploads/2023/08/yYh0KQk4GZ34iLSldVal2lGXMtL-200x300.jpg" group-title="BANGLADESHI MOVIE", SURONGO
+#EXTINF:-1 tvg-logo="https://m.imdb.com/title/tt28218009/?ref_=m_ttmi_tt" group-title="BANGLADESHI MOVIE", SURONGO
 https://media.pabnacablevision.net/movie/Bangladeshi/2023/Surongo%20(2023)%201080p%20WEB-DL.mp4
 
 #EXTINF:-1 tvg-logo="http://103.145.232.246//Admin/main/images/tt4736026/poster/original//rzsPBBalBVMiQL9VpVDWcP5Y73f.jpg" group-title="KOLKATA BANGLA MOVIE", PAGLU 2
@@ -455,8 +455,11 @@ http://cinemacity.live/hdd/Data%20Movie/Varot%20Bangla%20Movie/Villain%20%282018
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMwNTJlMDktZGI4Ni00OWIyLTgzYjEtNWNiNGM3ZGE2NDM5XkEyXkFqcGdeQXVyMjQwODkxNzg@._V1_.jpg" group-title="BANGLADESHI MOVIE", PRIYOTOMA
 https://media.pabnacablevision.net/movie/Bangladeshi/2023/Priyotoma%20(2023)%201080p%20WEB-DL.mp4
 
-#EXTINF:-1 tvg-logo="https://media.pabnacablevision.net/wp-content/uploads/2024/01/7aFtathzhnqWJpdlDaJWV37eUfS-203x300.jpg" group-title="BANGLADESHI MOVIE", OSOMOY
+#EXTINF:-1 tvg-logo="https://m.imdb.com/title/tt31100897/mediaviewer/rm1791312385/?ref_=tt_ov_i" group-title="BANGLADESHI MOVIE", OSOMOY
 https://media.pabnacablevision.net/movie/Bangladeshi/2024/Osomoy%20(2024)%20Bengali%201080p%20WEB-DL.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhZDJmN2QtYjU4NC00Y2QxLTkwNWMtYzVlODU5YzcyZjA2XkEyXkFqcGdeQXVyMTMzOTM3NDUx._V1_FMjpg_UX1000_.jpg" group-title="BANGLADESHI MOVIE", DAMAL
 https://media.pabnacablevision.net/movie/Bangladeshi/2022/Damal%20(2023)%201080p%20WEB-DL.mp4
+
+#EXTINF:-1 tvg-logo="https://m.imdb.com/title/tt13751694/mediaviewer/rm3809102337/?ref_=tt_ov_i" group-title="INDIAN MOVIE", ANIMAL
+https://p.pollllop.com/_v11/bf401b40369f957a567be4140c5208158545062ecdfbb850252a5ff3de8eb68474f89ffc4746c66707319f8fff9bfd32bce4426322d5d1414cab3c8a8f0080df3ff1105763a1e9087399ce29f9a3a91c9b67f99c7c73954d6ac1b267fcc5d8bfbe0585d164a357ed21fda2784c1490960b89fbb8ed6e22d958db7df60097c9995c2ea4c5903efe9bc87075f10fe2bc48/playlist.m3u8
