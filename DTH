@@ -511,3 +511,15 @@ http://103.145.232.246/Data/movies/Hollywood/2023/Avatar%20The%20Way%20Of%20Wate
 
 #EXTINF:-1 tvg-logo="http://103.145.232.246//Admin/main/images/tt27744786/poster/original//oRvFzcagAcC6Q317xtV7QXzwBnj.jpg" group-title="BOOLYWOOD MOVIE", SHAITAAN
 http://103.145.232.246/Data/movies/Bollywood/2024/Shaitaan%20(2024)/Shaitaan.mp4
+
+#EXTINF:-1 tvg-logo="http://103.145.232.246//Admin/main/images/tt7166042/poster/original//n7woK5AswxvC5NuOPbi9lROgpWN.jpg" group-title="KOLKATA BANGLA MOVIE", YETI ABHIJAAN
+http://103.145.232.246/Data/movies/indianbangla/2000-2021/Yeti%20Obhijaan%20(2017)/Yeti%20Obhijaan%20(2017)%20720p.HDRip.x264.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cSKR3j/20240512-194301.png" group-title="KOLKATA BANGLA MOVIE", ALINAGARER GOLOKDHADHA
+http://103.145.232.246/Data/movies/indianbangla/2000-2021/Alinagarer%20Golokdhadha%20(2018)/Alinagarer%20Golokdhadha%20(2018)%20720p.mkv
+
+#EXTINF:-1 tvg-logo="http://103.145.232.246//Admin/main/images/tt3300904/poster/original//lDrEIaeeEJsOb00rmlpcyIv4QOR.jpg" group-title="KOLKATA BANGLA MOVIE", CHANDER PAHAR
+http://103.145.232.246/Data/movies/indianbangla/2000-2021/Chander%20Pahar%20(2013)/Chander%20Pahar%20(2013).mkv
+
+#EXTINF:-1 tvg-logo="http://103.145.232.246//Admin/main/images/tt2551650/poster/original//2Br2RIqiVlJYYLlSrCYYgvEoNnF.jpg" group-title="KOLKATA BANGLA MOVIE", JEKHANE BHOOTER BHOY
+http://103.145.232.246/Data/movies/indianbangla/2000-2021/Jekhane%20Bhooter%20Bhoy%20(2012)/Jekhane%20Bhooter%20Bhoy%20(2012).mkv
