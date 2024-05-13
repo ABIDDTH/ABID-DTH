@@ -110,13 +110,13 @@ M3U8
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tDKYJhK/20240508-122942.png" group-title="INDIAN BANGLA CHANNEL", STAR JALSHA HD
-M3U8
+http://xtv.ooo:8080/Sehrish/12345/245898
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RSw89cC/20240508-121840.png" group-title="INDIAN BANGLA CHANNEL", ZEE BANGLA 
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7VGnP5P/20240507-032404.png" group-title="INDIAN BANGLA CHANNEL", ZEE BANGLA HD
-M3U8
+http://xtv.ooo:8080/Sehrish/12345/245893
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NrCftQ7/20240510-043031.png" group-title="INDIAN BANGLA CHANNEL", COLORS BANGLA 
 M3U8
@@ -137,10 +137,10 @@ M3U8
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zXKv5Xd/20240509-060216.png" group-title="INDIAN BANGLA CHANNEL", ZEE BANGLA CINEMA 
-M3U8
+http://xtv.ooo:8080/Sehrish/12345/245897
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b7JW4Wm/20240511-195855.png" group-title="INDIAN BANGLA CHANNEL", SUN BANGLA
-M3U8
+http://xtv.ooo:8080/Sehrish/12345/245906
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Msn1CYS/20240512-063936.png" group-title="INDIAN BANGLA CHANNEL", ENTEER TEN BANGLA 
 M3U8
@@ -149,49 +149,52 @@ M3U8
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SvXZSnj/20240508-124017.png" group-title="INDIAN BANGLA CHANNEL", AAKASH AATH
-M3U8
+http://xtv.ooo:8080/Sehrish/12345/245928
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YNYZ16W/20240508-123245.png" group-title="KIDS CHANNEL", DURONTO TV HD
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CnQmfh0/20240508-122616.png" group-title="KIDS CHANNEL", NICKELODEON 
-M3U8
+http://xtv.ooo:8080/Sehrish/12345/150482
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/st4ytpy/20240508-124146.png" group-title="KIDS CHANNEL", SONIC
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bKYTB0P/20240508-125414.png" group-title="KIDS CHANNEL", SONY YAY
-M3U8
+http://xtv.ooo:8080/Sehrish/12345/26187
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48MCdfK/20240511-204701.png" group-title="KIDS CHANNEL", WOW KIDS
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RGKmJ5N/20240511-222626.png" group-title="KIDS CHANNEL", 24/7 MOTU PATLU
-M3U8
+http://xtv.ooo:8080/Sehrish/12345/307079
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MDz4Fv4/20240511-190711.png" group-title="KIDS CHANNEL", CARTOON NETWORK HD
-M3U8
+http://xtv.ooo:8080/Sehrish/12345/153154
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXVTgrP/20240508-134108.png" group-title="KIDS CHANNEL", POGO
-M3U8
+http://xtv.ooo:8080/Sehrish/12345/150483
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMvDnhD/20240509-050316.png" group-title="KIDS CHANNEL", DISNEY HD
-M3U8
+http://xtv.ooo:8080/Sehrish/12345/167551
 
 #EXTINL:-1 tvg-logo="https://i.ibb.co/cNTxNV8/20240510-042702.png" group-title="KIDS CHANNEL", DISCOVARY KIDS
-M3U8
+http://xtv.ooo:8080/Sehrish/12345/76723
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M85vQ93/20240512-070715.png" group-title="KIDS CHANNEL", PBS KIDS
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XtZWgGt/20240508-132925.png" group-title="KIDS CHANNEL", HUNGAMA KIDS
-M3U8
+http://xtv.ooo:8080/Sehrish/12345/150480
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8X8TCST/20240512-070312.png" group-title="KIDS CHANNEL", 24/7 SHIVA 
-M3U8
+http://xtv.ooo:8080/Sehrish/12345/342074
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8X8TCST/20240512-070312.png" group-title="KIDS CHANNEL", 24/7 CHACHA BHATIJA
+http://xtv.ooo:8080/Sehrish/12345/311774
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Byf2TXX/20240508-124434.png" group-title="MUSIC CHANNEL", SANGEET BANGLA
-M3U8
+http://xtv.ooo:8080/Sehrish/12345/245933
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0XQJbmn/20240509-052059.png" group-title="MUSIC CHANNEL", MUSIC INDIA
 M3U8
@@ -293,16 +296,16 @@ M3U8
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qsv5QQB/20240508-130713.png" group-title="SPORTS CHANNEL", SONY SPORTS 1
-M3U8
+http://xtv.ooo:8080/Sehrish/12345/167570
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xGG2FTK/20240508-130827.png" group-title="SPORTS CHANNEL", SONY SPORTS 2
-M3U8
+http://xtv.ooo:8080/Sehrish/12345/167571
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8PhJTFy/20240508-130932.png" group-title="SPORTS CHANNEL", SONY SPORTS 3
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/th6nhV2/20240508-131035.png" group-title="SPORTS CHANNEL", SONY SPORTS 4
-M3U8
+http://xtv.ooo:8080/Sehrish/12345/167572
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tz286m1/20240508-130433.png" group-title="SPORTS CHANNEL", SONY SPORTS 5
 M3U8
