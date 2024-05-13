@@ -200,19 +200,19 @@ http://xtv.ooo:8080/Sehrish/12345/245933
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hLLRjVb/20240508-122048.png" group-title="MUSIC CHANNEL", BALLE BALLE
-M3U8
+http://xtv.ooo:8080/Sehrish/12345/219495
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5xv2Tdb/20240509-050356.png" group-title="MUSIC CHANNEL", 9X TASHAN
-M3U8
+http://xtv.ooo:8080/Sehrish/12345/66289
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PFsm9wQ/20240509-051139.png" group-title="MUSIC CHANNEL", 9XM
-M3U8
+http://xtv.ooo:8080/Sehrish/12345/66192
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FJ9th0S/20240509-050440.png" group-title="MUSIC CHANNEL", 9X JHAKAAS
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x5HT6sn/20240509-051032.png" group-title="MUSIC CHANNEL", MTV
-M3U8
+http://xtv.ooo:8080/Sehrish/12345/206054
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kHLBDCv/20240509-050108.png" group-title="MUSIC CHANNEL", AB MASTI III
 M3U8
@@ -227,19 +227,19 @@ M3U8
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S531gFG/20240508-134848.png" group-title="INFOTAINMENT CHANNEL", SONY BBC EARTH
-M3U8
+http://xtv.ooo:8080/Sehrish/12345/206278
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZjNVSK/20240512-062908.png" group-title="INFOTAINMENT CHANNEL", DISCOVERY BANGLA
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/syrmpYs/20240512-062236.png" group-title="INFOTAINMENT CHANNEL", NATIONAL GEO GRAPHIC
-M3U8
+http://xtv.ooo:8080/Sehrish/12345/206587
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QY6Ph8m/20240512-063606.png" group-title="INFOTAINMENT CHANNEL", NAT GEO WORLD
-M3U8
+http://xtv.ooo:8080/Sehrish/12345/206285
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1QZvJ9Z/20240512-061325.png" group-title="INFOTAINMENT CHANNEL", DISCOVERY HD
-M3U8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1QZvJ9Z/20240512-061325.png" group-title="INFOTAINMENT CHANNEL", DISCOVERY 4k
+http://xtv.ooo:8080/Sehrish/12345/109974
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p2yC1VJ/20240508-173550.png" group-title="INFOTAINMENT CHANNEL", DISCOVERY SCIENCE 
 M3U8
@@ -284,13 +284,13 @@ http://103.151.60.214:7444/1101/video.m3u8
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/txtP5LL/20240511-215615.png" group-title="SPORTS CHANNEL", STAR SPORTS 1
-M3U8
+http://xtv.ooo:8080/Sehrish/12345/167575
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whR906K/20240511-214602.png" group-title="SPORTS CHANNEL", STAR SPORTS 2
-M3U8
+http://xtv.ooo:8080/Sehrish/12345/167576
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xG4fWxF/20240511-215919.png" group-title="SPORTS CHANNEL", STAR SPORTS 3
-M3U8
+http://xtv.ooo:8080/Sehrish/12345/167577
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2dgpG6v/20240508-131528.png" group-title="SPORTS CHANNEL", SONY SPORTS NETWORK 
 M3U8
