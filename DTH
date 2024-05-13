@@ -8,10 +8,10 @@ M3U8
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j4zNTBB/20240508-132703.png" group-title="BANGLADESHI CHANNEL", ATN BANGLA
-M3U8
-|
+https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CHNzL8D/20240509-065838.png" group-title="BANGLADESHI CHANNEL", CHANNEL I HD
-M3U8
+https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RPRfR3S/20240508-173420.png" group-title="BANGLADESHI CHANNEL", EKUSHEY TV
 M3U8
@@ -20,19 +20,19 @@ M3U8
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2gW5RHx/20240508-132557.png" group-title="BANGLADESHI CHANNEL", RTV HD
-M3U8
+https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/54VszHG/20240509-072214.png" group-title="BANGLADESHI CHANNEL", BOISHAKHI TV HD
-M3U8
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hDQ6fxg/20240508-123821.png" group-title="BANGLADESHI CHANNEL", BANGLA VISION HD
-M3U8
+https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qx6Sj2r/20240509-070811.png" group-title="BANGLADESHI CHANNEL", DESH TV
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FWYwZRM/20240509-071617.png" group-title="BANGLADESHI CHANNEL", MY TV HD
-M3U8
+https://myflixbd.com/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HhPTp0L/20240511-191942.png" group-title="BANGLADESHI CHANNEL", ATN NEWS
 M3U8
@@ -41,16 +41,16 @@ M3U8
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zQRCnpn/20240509-060401.png" group-title="BANGLADESHI CHANNEL", BIJOY TV
-M3U8
+http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B2Mx1tP/20240508-123606.png" group-title="BANGLADESHI CHANNEL", SOMOY TV
-M3U8
+https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8Yq86j0/20240509-051226.png" group-title="BANGLADESHI CHANNEL", INDEPENDENT NEWS
-M3U8
+http://cdn01.palki.tv/live/Independent-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5GD7jJ5/20240509-065733.png" group-title="BANGLADESHI CHANNEL", MAASRANGA TV
-M3U8
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mv9p3Wh/20240508-124555.png" group-title="BANGLADESHI CHANNEL", CHANNEL 9 
 M3U8
@@ -59,28 +59,28 @@ M3U8
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JzcR430/20240511-200045.png" group-title="BANGLADESHI CHANNEL", GAZI TV 
-M3U8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Czf3Tm9/20240508-123702.png" group-title="BANGLADESHI CHANNEL", EKATTOR TV 
-M3U8
+http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/26LzwT1/20240511-185854.png" group-title="BANGLADESHI CHANNEL", ASIAN TV HD
-M3U8
+https://mtlivestream.site/asian/ytlive/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bFds0yt/20240511-195602.png" group-title="BANGLADESHI CHANNEL", SA TV HD
-M3U8
+http://cdn01.palki.tv/live/SATV-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nfRG6nP/20240509-070628.png" group-title="BANGLADESHI CHANNEL", GAAN BANGLA HD
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5vCJrHv/20240509-080617.png" group-title="BANGLADESHI CHANNEL", JAMUNA TELEVISION 
-M3U8
+https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZTK7xm1/20240509-065436.png" group-title="BANGLADESHI CHANNEL", DEEPTO TV HD
-M3U8
+https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/swr6Dcc/20240508-123400.png" group-title="BANGLADESHI CHANNEL", DBC NEWS HD
-M3U8
+https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k0DMZ70/20240511-195943.png" group-title="BANGLADESHI CHANNEL", NEWS 24 HD
 M3U8
@@ -89,22 +89,22 @@ M3U8
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pz4F3Qv/20240509-084323.png" group-title="BANGLADESHI CHANNEL", BANGLA TV
-M3U8
+https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHn7zgV/20240509-055851.png" group-title="BANGLADESHI CHANNEL", ANANDA TV
 m
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yRF2HRj/20240508-124826.png" group-title="BANGLADESHI CHANNEL", MOVIE BANGLA 
-M3U8
+https://livess.ncare.live/live-orgin/moviebanglalink2.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kgnhPkR/20240511-200717.png" group-title="BANGLADESHI CHANNEL", NEXUS TV
-M3U8
+https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HtBrQ76/20240508-132159.png" group-title="BANGLADESHI CHANNEL", EKHON TV
-M3U8
+https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GJ53L8L/20240509-051323.png" group-title="BANGLADESHI CHANNEL", GLOBAL TV
-M3U8
+M3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nkHM3pq/20240508-121941.png" group-title="INDIAN BANGLA CHANNEL", STAR JALSHA 
 M3U8
@@ -143,7 +143,7 @@ http://xtv.ooo:8080/Sehrish/12345/245897
 http://xtv.ooo:8080/Sehrish/12345/245906
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Msn1CYS/20240512-063936.png" group-title="INDIAN BANGLA CHANNEL", ENTEER TEN BANGLA 
-M3U8
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9nDLz59/20240508-132027.png" group-title="INDIAN BANGLA CHANNEL", KHUSHBOO BANGLA 
 M3U8
@@ -160,7 +160,7 @@ http://xtv.ooo:8080/Sehrish/12345/150482
 #EXTINF:-1 tvg-logo="https://i.ibb.co/st4ytpy/20240508-124146.png" group-title="KIDS CHANNEL", SONIC
 M3U8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bKYTB0P/20240508-125414.png" group-title="KIDS CHANNEL", SONY YAY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bKYTB0P/20240508-125414.png" up-title="KIDS CHANNEL", SONY YAY
 http://xtv.ooo:8080/Sehrish/12345/26187
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48MCdfK/20240511-204701.png" group-title="KIDS CHANNEL", WOW KIDS
@@ -182,7 +182,7 @@ http://xtv.ooo:8080/Sehrish/12345/167551
 http://xtv.ooo:8080/Sehrish/12345/76723
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M85vQ93/20240512-070715.png" group-title="KIDS CHANNEL", PBS KIDS
-M3U8
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XtZWgGt/20240508-132925.png" group-title="KIDS CHANNEL", HUNGAMA KIDS
 http://xtv.ooo:8080/Sehrish/12345/150480
@@ -230,7 +230,7 @@ M3U8
 http://xtv.ooo:8080/Sehrish/12345/206278
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZjNVSK/20240512-062908.png" group-title="INFOTAINMENT CHANNEL", DISCOVERY BANGLA
-M3U8
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/syrmpYs/20240512-062236.png" group-title="INFOTAINMENT CHANNEL", NATIONAL GEO GRAPHIC
 http://xtv.ooo:8080/Sehrish/12345/206587
@@ -242,16 +242,16 @@ http://xtv.ooo:8080/Sehrish/12345/206285
 http://xtv.ooo:8080/Sehrish/12345/109974
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p2yC1VJ/20240508-173550.png" group-title="INFOTAINMENT CHANNEL", DISCOVERY SCIENCE 
-M3U8
+https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zRNBbP3/20240509-050920.png" group-title="INFOTAINMENT CHANNEL", LOVE NATURE 4K
-M3U8
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2W7P7v6/20240511-203837.png" group-title="INFOTAINMENT CHANNEL", NASA TV
-M3U8
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WW4bLx8/20240512-061833.png" group-title="INFOTAINMENT CHANNEL", WEATHER SPY
-M3U8
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xJmMfvg/20240511-205720.png" group-title="INFOTAINMENT CHANNEL", WILD EARTH HD
 M3U8
@@ -311,7 +311,7 @@ http://xtv.ooo:8080/Sehrish/12345/167572
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v3x47Xh/20240509-065623.png" group-title="SPORTS CHANNEL", FIFA+
-M3U8
+https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YBxXcKw/20240512-065540.png" group-title="SPORTS CHANNEL", PTV SPORTS 
 M3U8
@@ -320,10 +320,10 @@ M3U8
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xqfvsRq/20240512-061748.png" group-title="SPORTS CHANNEL", DUBAI SPORTS 
-M3U8
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HHLDvV9/20240512-065657.png" group-title="SPORTS CHANNEL", RED BULL TV
-M3U8
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 
